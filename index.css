@@ -1,0 +1,12 @@
+body{
+    color: white;
+}
+#form{
+    padding-top: 50px;
+    max-width: 300px;
+    margin: auto;
+    max-height: 600px;
+    border: 1px solid white;
+    background:linear-gradient(aqua,blue,aqua);
+    text-align: center;
+}
